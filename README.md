@@ -10,7 +10,7 @@ and am coming up with a model for the final product.
 ### Working model
 
 The faction will start each round with a Queen Ant unit and radar. This Queen Ant is the only means of 
-creating units via Ant Larvae structures. Ant Larvae can be build quickly, but when placed will begin a 
+creating units via Ant Larvae structures. Ant Larvae can be built quickly, but when placed will begin a 
 timer until the ant inside hatches and is commandable.
 
 At first, the Queen Ant will only be able to lay Worker Ant Larvae and Warrior Ant Larvae. Warrior Ants 
